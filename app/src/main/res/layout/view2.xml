@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/view2_txt"
+        android:text="视频简介"
+        android:textSize="28sp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:id="@+id/tv_personal_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dip"
+        android:layout_marginRight="15dip"
+        android:layout_marginTop="10dip"
+        android:layout_centerHorizontal="true"
+        android:text="按步骤开始健身"
+        android:textColor="@color/title"
+        android:textSize="15sp" />
+
+
+    <TextView
+        android:id="@+id/tv_personal_part"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_personal_start"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dip"
+        android:layout_marginRight="15dip"
+        android:text="训练部位"
+        android:textColor="@color/title"
+        android:textSize="22sp" />
+</RelativeLayout>

@@ -1,0 +1,54 @@
+<resources>
+
+    <declare-styleable name="circularImage">
+        <attr name="border_thickness" format="dimension" />
+        <attr name="border_inside_color" format="color" />
+        <attr name="border_outside_color" format="color"></attr>
+    </declare-styleable>
+    <declare-styleable name="LineChartView">
+        <attr name="horizontal_grid_step" format="integer" min="0" />
+        <attr name="vertical_grid_step" format="integer" min="0" />
+        <attr name="horizontal_grid_sublines_count" format="integer" min="0" />
+        <attr name="vertical_grid_sublines_count" format="integer" min="0" />
+        <attr name="vertical_grid" format="boolean" />
+        <attr name="vertical_grid_sublines" format="boolean" />
+        <attr name="horizontal_grid" format="boolean" />
+        <attr name="horizontal_grid_sublines" format="boolean" />
+        <attr name="horizontal_grid_color" format="color" />
+        <attr name="vertical_grid_color" format="color" />
+        <attr name="horizontal_grid_sublines_color" format="color" />
+        <attr name="vertical_grid_sublines_color" format="color" />
+        <attr name="horizontal_grid_thikness" format="dimension" />
+        <attr name="vertical_grid_thikness" format="dimension" />
+        <attr name="horizontal_grid_sublines_thikness" format="dimension" />
+        <attr name="vertical_grid_sublines_thikness" format="dimension" />
+        <attr name="horizontal_values" format="boolean" />
+        <attr name="vertical_values" format="boolean" />
+        <attr name="horizontal_values_color" format="color" />
+        <attr name="vertical_values_color" format="color" />
+        <attr name="horizontal_values_size" format="dimension" />
+        <attr name="vertical_values_size" format="dimension" />
+    </declare-styleable>
+    
+    <declare-styleable name="TasksCompletedView">
+        <attr name="radius" format="dimension" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="circleColor" format="color" />
+        <attr name="ringColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="SlidingLayer">
+        <attr name="shadowDrawable" format="boolean"/>
+        <attr name="shadowSize" format="dimension"/>
+        <attr name="changeStateOnTap" format="boolean"/>
+        <attr name="offsetDistance" format="dimension"/>
+        <attr name="previewOffsetDistance" format="dimension"/>
+        <attr name="stickTo" format="enum">
+            <enum name="right" value="-1"/>
+            <enum name="left" value="-2"/>
+            <enum name="top" value="-3"/>
+            <enum name="bottom" value="-4"/>
+        </attr>
+    </declare-styleable>
+
+</resources>

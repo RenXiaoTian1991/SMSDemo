@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#900</color>
+    <color name="green">#090</color>
+    <color name="blue">#009</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+    <color name="uu_black">#484848</color>
+    <color name="menu_line">#3f4b55</color>
+    <color name="bg_setting_left">#121f2a</color>
+    <color name="scence_seep">#f9a231</color>
+    <color name="bg_set_color_blue">#3189f3</color>
+    <color name="bg_set_color_white">#c4d9de</color>
+    <color name="bg_set_line">#3a4e66</color>
+    <color name="mark_man_white">#33000000</color>
+    <color name="seep_power_bule">#96e3ff</color>
+    <color name="seep_electricity_yellow">#feffa0</color>
+    <color name="seep_pointer_red">#ff8b8b</color>
+    <color name="menu_top_textcolor">#747474</color>
+    <color name="transparent">#00000000</color>
+    <color name="bg_title">#f8f8f8</color>
+    <color name="title">#ff6936</color>
+    <color name="shallow_black">#484848</color>
+    <color name="screening_black">#6f6f6f</color>
+    <color name="activity_grey_bg">#efefef</color>
+    <color name="textview_grey">#c3c3c3</color>
+    <color name="teacher_info_black">#6a6a6a</color>
+    <color name="teacher_info_read">#ff6934</color>
+    <color name="teacher_info_head_image_outside_color">#ff6a32</color>
+    <color name="course_appraise_gray_color">#b1b1b1</color>
+    <color name="course_appraise_list_divider_color">#efefef</color>
+    <color name="reset_pwd_line_color">#dadada</color>
+    <color name="statistics_switcher_text_color">#20a0fc</color>
+    <color name="course_date_after_blue">#2ba0f8</color>
+    <color name="user_info_age">#30a1ef</color>
+    <color name="share_fitness_time_color">#329eff</color>
+    <color name="share_fitness_consume_color">#fb79e5</color>
+    <color name="tv_my_couse_name">#ff484848</color>
+    <color name="tv_my_couse_description">#ff464646</color>
+    <color name="tv_my_course_sign_up_state">#fffe6830</color>
+    <color name="recommend_guide_line_color">#eeeeee</color>
+    <color name="recommend_guide_time_util_color">#3d88fd</color>
+    <color name="recommend_guide_action_util_color">#fe5cff</color>
+    <color name="course_head_dec_color">#848484</color>
+    <color name="circle_color">#DEDEDE</color>
+    <color name="ring_color">#ff6936</color>
+    <color name="calendar_background">#2e2e2e</color>
+    <color name="date_select">#677a93</color>
+    <color name="new_all_backgroung">#1a3666</color>
+    <color name="new_title_background">#001231</color>
+
+</resources>
